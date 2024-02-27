@@ -1,0 +1,14 @@
+{
+  "name": "KALKULATOR",
+  "version": "1.0.0",
+  "description": "A simple nativecross-platform GUI calculator app that uses Electron and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Fiodar Sazanavets",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.18"
+  }
+}
